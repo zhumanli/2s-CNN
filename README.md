@@ -10,7 +10,9 @@ python >= 3.6
 pytorch
 
 # Getting started
+```
 python main.py
+```
 
 # Citing
 If you find this work useful, please consider our paper to cite:
