@@ -11,3 +11,15 @@ pytorch
 
 # Getting started
 python main.py
+
+# Citing
+If you find this work useful, please consider our paper to cite:
+```
+@article{zhu2022atwostream,
+  title={A Two-stream Convolutional Network for Musculoskeletal and Neurological Disorders Prediction},
+  author={Zhu, Manli and Men, Qianhui and Ho, Edmond SL and Leung, Howard and Shum, Hubert PH},
+  journal={Journal of Medical Systems},
+  year={2022},
+  publisher={Springer}
+}
+```
