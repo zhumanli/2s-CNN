@@ -6,6 +6,7 @@ Musculoskeletal and neurological disorders are the most common causes of walking
 
 # Requirements
 python >= 3.6
+
 pytorch
 
 # Getting started
